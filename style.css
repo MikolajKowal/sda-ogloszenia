@@ -159,3 +159,11 @@ textarea[name=message] {
     float: right;
     clear: right;
 }
+
+.sorting-label {
+    line-height: 34px;
+}
+
+.sorting-right {
+    text-align: right;
+}
