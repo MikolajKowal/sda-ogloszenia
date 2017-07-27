@@ -115,8 +115,16 @@
 .footer a {
     color: white;
 }
-/*
-.img-responsive{
-    margin: 0 auto;
+textarea[name=message] {
+    resize: none;
+    margin: 9px 0;
 }
-*/
+
+.avatar{
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.ad-info{
+    margin-top: 5px;
+}
